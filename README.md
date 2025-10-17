@@ -1,1 +1,3 @@
-<img src="https://files.catbox.moe/d2h7z2.png" alt="Aoba Plush" width="268" height="386"><img src="https://static.myfigurecollection.net/upload/items/2/128062-bfb35.jpg" alt="Noiz Plush" width="268" height="386">
+<img src="https://files.catbox.moe/apdfeo.jpg" width="50%" height="50%">
+
+![visitorbadge](https://vbr.nathanchung.dev/badge?page_id=59176588&color=9f64c4&text=loyal_fans)
